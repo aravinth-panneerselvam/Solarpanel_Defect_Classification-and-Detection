@@ -1,0 +1,15 @@
+ipykernel
+catboost
+tensorflow
+pandas 
+numpy 
+seaborn
+scikit-learn
+tensorboard
+matplotlib
+streamlit
+scikeras
+torch
+nltk
+labelImg
+label-studio
